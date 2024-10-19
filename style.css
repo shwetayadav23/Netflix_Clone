@@ -1,0 +1,17 @@
+.gradient-circle {
+    width: 1500px;
+    height: 200px;
+    border: 4px solid white;
+    border-radius: 50%;
+    /* border-top: #FF0000; */
+    /* background: linear-gradient(to bottom, #FF0000, #0000FF); */
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+    margin: auto;
+}
+  
+/* .inner-circle {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    /* background-color: #000; */
